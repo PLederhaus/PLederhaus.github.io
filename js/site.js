@@ -21,3 +21,6 @@ function greetByTime(hours){
 
 //Run function
 greetByTime(hours)
+
+// Set up secret message
+localStorage.setItem("It's a secret to everybody.", "It doesn't beat a sword from an old man but I'll take it!")
